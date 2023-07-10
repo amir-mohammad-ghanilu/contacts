@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contact-app%20/static/css/main.1de5e6c4.css",
+    "main.js": "/contact-app%20/static/js/main.e556177a.js",
+    "static/media/Spinner.gif": "/contact-app%20/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/contact-app%20/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/contact-app%20/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/contact-app%20/index.html",
+    "main.1de5e6c4.css.map": "/contact-app%20/static/css/main.1de5e6c4.css.map",
+    "main.e556177a.js.map": "/contact-app%20/static/js/main.e556177a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de5e6c4.css",
+    "static/js/main.e556177a.js"
+  ]
+}
